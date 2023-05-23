@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "1027525708513",
+    "project_id": "flutterpushnotifications-528a3",
+    "storage_bucket": "flutterpushnotifications-528a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027525708513:android:a621ab8fafd22236d345a0",
+        "android_client_info": {
+          "package_name": "com.example.music_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027525708513-ecqo9tcobjf3qbkp489u9rb2ua0hoj9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe3eneGkwpMq_pRRrDMARMCq8OJb9Ivsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027525708513-ecqo9tcobjf3qbkp489u9rb2ua0hoj9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027525708513:android:480410167f3f9d26d345a0",
+        "android_client_info": {
+          "package_name": "com.example.push_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027525708513-ecqo9tcobjf3qbkp489u9rb2ua0hoj9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe3eneGkwpMq_pRRrDMARMCq8OJb9Ivsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027525708513-ecqo9tcobjf3qbkp489u9rb2ua0hoj9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027525708513:android:8018229db13a6a9ad345a0",
+        "android_client_info": {
+          "package_name": "com.souvikbiswas.notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027525708513-ecqo9tcobjf3qbkp489u9rb2ua0hoj9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe3eneGkwpMq_pRRrDMARMCq8OJb9Ivsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027525708513-ecqo9tcobjf3qbkp489u9rb2ua0hoj9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

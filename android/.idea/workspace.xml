@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bec8f1b-5e7e-475f-b9ef-6dae4aec7e7f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/CompanyLocation.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/CompanyLocation.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/NonEditableCompanyPage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/NonEditableCompanyPage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Views/Login/ForgotorCreate_Password.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Views/Login/ForgotorCreate_Password.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Views/Login/Login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Views/Login/Login.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Views/Login/PreScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Views/Login/PreScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Views/Login/Sign_Up.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Views/Login/Sign_Up.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Views/Menu/InnerServicePage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Views/Menu/InnerServicePage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Views/Menu/Services.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Views/Menu/Services.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Views/Menu/Settings.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Views/Menu/Settings.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Views/MusicPlayer/Music_player.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Views/MusicPlayer/Music_player.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Views/Profile/Profile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Views/Profile/Profile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Views/Profile/chatUserProfile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Views/Profile/chatUserProfile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Views/SpeedDial/YoutubeVideo.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Views/SpeedDial/YoutubeVideo.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Views/SpeedDial/addSong.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Views/SpeedDial/addSong.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Views/SpeedDial/bulletInPost.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Views/SpeedDial/bulletInPost.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Views/SpeedDial/pictureUpload.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Views/SpeedDial/pictureUpload.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Views/SpeedDial/songUploadform.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Views/SpeedDial/songUploadform.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Views/Tabs/BulletIn.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Views/Tabs/BulletIn.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Views/companyPage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Views/companyPage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/helpers/Utilities.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/helpers/Utilities.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/widgets/drawer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/widgets/drawer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Ig7wABRTeaanDzNZRrllixvon7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bec8f1b-5e7e-475f-b9ef-6dae4aec7e7f" name="Changes" comment="" />
+      <created>1670591608925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670591608925</updated>
+    </task>
+    <servers />
+  </component>
+</project>
